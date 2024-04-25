@@ -1,3 +1,4 @@
 - Keep everything in the same directory
 - Do not enter any values higher than 60 minutes
 - Click the application to start
+- Download all additional files for proper visuals and sound effects!
